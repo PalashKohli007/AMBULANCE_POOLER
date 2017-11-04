@@ -1,0 +1,7 @@
+Author: Ankit, Date: Oct 2, 2017
+A quick summary for what we talked yesterday.
+1. We try to design and talk briefly about the goals for the product.
+2. We start creating documentation and work around the legal paperwork
+3. We try to come up with the name.
+Next log entry for Oct 29, 2017
+---------------------------------------------------------------------------------
